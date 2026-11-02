@@ -1,4 +1,3 @@
 # first_repo
 primer commit
-adiosssss
-segundo commit
+1º commit
